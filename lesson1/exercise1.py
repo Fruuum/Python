@@ -39,7 +39,7 @@ while number2 > 0:
         max_digit = digit
     number2 = number2 // 10
 
-print(f'в числе {n} наибольшая цифра {max_digit}')
+print(f'в числе {input_number} наибольшая цифра {max_digit}')
 
 #: task5
 _n_ = float(input('введите годовую выручку: '))
